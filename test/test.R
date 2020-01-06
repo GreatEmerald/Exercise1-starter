@@ -2,7 +2,7 @@
 # Lesson 1, Exercise 1
 # Age calculator
 # Tests
-# 28/05/2019
+# 01/06/2019
 
 # Load testing package
 suppressWarnings(library('testthat'))
