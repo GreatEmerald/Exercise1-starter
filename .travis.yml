@@ -11,3 +11,6 @@ matrix:
     os: linux
     script:
     - Rscript ./test/test.R
+    
+notifications:
+  webhooks: https://outlook.office.com/webhook/...long_code_that_you_just_copied...
