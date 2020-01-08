@@ -13,4 +13,4 @@ matrix:
     - Rscript ./test/test.R
     
 notifications:
-  webhooks: https://outlook.office.com/webhook/...long_code_that_you_just_copied...
+  webhooks: https://outlook.office.com/webhook/6def7055-83f3-4675-b277-292d8b99b9b7@27d137e5-761f-4dc1-af88-d26430abb18f/TravisCI/3e5ffd7a6f5440138341765ed2e95b27/95bfbb24-83a4-44d4-b55d-c765e79f211f
